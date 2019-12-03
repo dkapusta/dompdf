@@ -25,6 +25,9 @@ html {
   display: -dompdf-page !important;
   counter-reset: page;
 }
+body {
+  font-family: DejaVu Sans, sans-serif !important;
+}
 
 /* blocks */
 

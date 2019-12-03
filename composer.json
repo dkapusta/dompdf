@@ -1,8 +1,8 @@
 {
-    "name": "dompdf/dompdf",
+    "name": "dkapusta/dompdf",
     "type": "library",
-    "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
-    "homepage": "https://github.com/dompdf/dompdf",
+    "description": "Fork of DOMPDF with cyrillic characters support",
+    "homepage": "https://github.com/dkapusta/dompdf",
     "license": "LGPL-2.1",
     "authors": [
         {
@@ -16,6 +16,10 @@
         {
             "name": "Gabriel Bull",
             "email": "me@gabrielbull.com"
+        },
+        {
+            "name": "Dmitry Kapusta",
+            "email": "dmitry.kapusta93@gmail.com"
         }
     ],
     "autoload": {
