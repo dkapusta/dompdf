@@ -22,6 +22,13 @@ return array(
             'italic' => $distFontDir . 'Times-Italic',
             'bold_italic' => $distFontDir . 'Times-BoldItalic'
         ),
+    'times-new-roman' =>
+        array(
+            'normal' => $distFontDir . 'times',
+            'bold' => $distFontDir . 'times',
+            'italic' => $distFontDir . 'times',
+            'bold_italic' => $distFontDir . 'times'
+        ),
     'courier' =>
         array(
             'normal' => $distFontDir . 'Courier',
